@@ -4,3 +4,7 @@
 commit 1 --> logic
 
 commit 2 --> logic
+
+commit 3 --> logic
+
+commit 4 --> logic

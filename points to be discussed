@@ -1,0 +1,13 @@
+Undoing the local changes that have not been commited
+
+--> git checkout file_name
+
+Undoing a specific commit  that has benn pushed
+
+--> git add ., git commit -m "" , git push, git revert commit-id
+
+Undoing our commit that has not been pushed
+
+git reset commit-id
+
+
